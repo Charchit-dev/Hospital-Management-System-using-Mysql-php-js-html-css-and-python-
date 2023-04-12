@@ -1,5 +1,5 @@
 #                  Simana Hospital
-  ##     http://clabsql.clamv.jacobs-university.de/~kgautam
+  ##     http://clabsql.clamv.jacobs-university.de/~cdevkota
 ### A group project for the hospital management system. Since it requires vpn to access the website, here are some screenshots of what we have done.
 
 ## Home Page
